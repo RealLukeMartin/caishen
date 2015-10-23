@@ -6,4 +6,4 @@ projects[drupal][version] = "7.34"
 ; Profile
 projects[caishen][type] = profile
 projects[caishen][download][type] = git
-projects[caishen][download][url] = https://github.com/JosephLeon/caishen.git
+projects[caishen][download][url] = https://github.com/RealLukeMartin/caishen.git
